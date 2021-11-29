@@ -1,0 +1,6 @@
+U:\C# _Beau_Roels\Oef1p202_Roels\Oef1p202_Roels\bin\Debug\Oef1p202_Roels.exe.config
+U:\C# _Beau_Roels\Oef1p202_Roels\Oef1p202_Roels\bin\Debug\Oef1p202_Roels.exe
+U:\C# _Beau_Roels\Oef1p202_Roels\Oef1p202_Roels\bin\Debug\Oef1p202_Roels.pdb
+U:\C# _Beau_Roels\Oef1p202_Roels\Oef1p202_Roels\obj\Debug\Oef1p202_Roels.csprojResolveAssemblyReference.cache
+U:\C# _Beau_Roels\Oef1p202_Roels\Oef1p202_Roels\obj\Debug\Oef1p202_Roels.exe
+U:\C# _Beau_Roels\Oef1p202_Roels\Oef1p202_Roels\obj\Debug\Oef1p202_Roels.pdb

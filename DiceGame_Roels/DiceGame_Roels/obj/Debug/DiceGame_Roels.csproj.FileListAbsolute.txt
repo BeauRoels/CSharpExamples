@@ -1,0 +1,9 @@
+U:\C# _Beau_Roels\DiceGame_Roels\DiceGame_Roels\bin\Debug\DiceGame_Roels.exe.config
+U:\C# _Beau_Roels\DiceGame_Roels\DiceGame_Roels\bin\Debug\DiceGame_Roels.exe
+U:\C# _Beau_Roels\DiceGame_Roels\DiceGame_Roels\bin\Debug\DiceGame_Roels.pdb
+U:\C# _Beau_Roels\DiceGame_Roels\DiceGame_Roels\obj\Debug\DiceGame_Roels.csprojResolveAssemblyReference.cache
+U:\C# _Beau_Roels\DiceGame_Roels\DiceGame_Roels\obj\Debug\DiceGame_Roels.Form1.resources
+U:\C# _Beau_Roels\DiceGame_Roels\DiceGame_Roels\obj\Debug\DiceGame_Roels.Properties.Resources.resources
+U:\C# _Beau_Roels\DiceGame_Roels\DiceGame_Roels\obj\Debug\DiceGame_Roels.csproj.GenerateResource.Cache
+U:\C# _Beau_Roels\DiceGame_Roels\DiceGame_Roels\obj\Debug\DiceGame_Roels.exe
+U:\C# _Beau_Roels\DiceGame_Roels\DiceGame_Roels\obj\Debug\DiceGame_Roels.pdb

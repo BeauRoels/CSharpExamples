@@ -1,0 +1,6 @@
+U:\C# _Beau_Roels\P183Oef9\P183Oef9\bin\Debug\P183Oef9.exe.config
+U:\C# _Beau_Roels\P183Oef9\P183Oef9\bin\Debug\P183Oef9.exe
+U:\C# _Beau_Roels\P183Oef9\P183Oef9\bin\Debug\P183Oef9.pdb
+U:\C# _Beau_Roels\P183Oef9\P183Oef9\obj\Debug\P183Oef9.csprojResolveAssemblyReference.cache
+U:\C# _Beau_Roels\P183Oef9\P183Oef9\obj\Debug\P183Oef9.exe
+U:\C# _Beau_Roels\P183Oef9\P183Oef9\obj\Debug\P183Oef9.pdb

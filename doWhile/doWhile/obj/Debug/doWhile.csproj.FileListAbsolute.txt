@@ -1,0 +1,6 @@
+D:\Programming\doWhile\doWhile\obj\Debug\doWhile.csprojResolveAssemblyReference.cache
+D:\Programming\doWhile\doWhile\bin\Debug\doWhile.exe.config
+D:\Programming\doWhile\doWhile\bin\Debug\doWhile.exe
+D:\Programming\doWhile\doWhile\bin\Debug\doWhile.pdb
+D:\Programming\doWhile\doWhile\obj\Debug\doWhile.exe
+D:\Programming\doWhile\doWhile\obj\Debug\doWhile.pdb

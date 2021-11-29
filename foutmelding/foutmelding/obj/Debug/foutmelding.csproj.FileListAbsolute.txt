@@ -1,0 +1,6 @@
+U:\C# _Beau_Roels\foutmelding\foutmelding\bin\Debug\foutmelding.exe.config
+U:\C# _Beau_Roels\foutmelding\foutmelding\bin\Debug\foutmelding.exe
+U:\C# _Beau_Roels\foutmelding\foutmelding\bin\Debug\foutmelding.pdb
+U:\C# _Beau_Roels\foutmelding\foutmelding\obj\Debug\foutmelding.csprojResolveAssemblyReference.cache
+U:\C# _Beau_Roels\foutmelding\foutmelding\obj\Debug\foutmelding.exe
+U:\C# _Beau_Roels\foutmelding\foutmelding\obj\Debug\foutmelding.pdb

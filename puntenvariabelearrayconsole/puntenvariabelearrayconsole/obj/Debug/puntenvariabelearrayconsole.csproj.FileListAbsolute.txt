@@ -1,0 +1,12 @@
+U:\C# _Beau_Roels2017\puntenvariabelearrayconsole\puntenvariabelearrayconsole\bin\Debug\puntenvariabelearrayconsole.exe.config
+U:\C# _Beau_Roels2017\puntenvariabelearrayconsole\puntenvariabelearrayconsole\bin\Debug\puntenvariabelearrayconsole.exe
+U:\C# _Beau_Roels2017\puntenvariabelearrayconsole\puntenvariabelearrayconsole\bin\Debug\puntenvariabelearrayconsole.pdb
+U:\C# _Beau_Roels2017\puntenvariabelearrayconsole\puntenvariabelearrayconsole\obj\Debug\puntenvariabelearrayconsole.csprojResolveAssemblyReference.cache
+U:\C# _Beau_Roels2017\puntenvariabelearrayconsole\puntenvariabelearrayconsole\obj\Debug\puntenvariabelearrayconsole.exe
+U:\C# _Beau_Roels2017\puntenvariabelearrayconsole\puntenvariabelearrayconsole\obj\Debug\puntenvariabelearrayconsole.pdb
+D:\Handelsschool\2016-2017\Programming\puntenvariabelearrayconsole\puntenvariabelearrayconsole\bin\Debug\puntenvariabelearrayconsole.exe.config
+D:\Handelsschool\2016-2017\Programming\puntenvariabelearrayconsole\puntenvariabelearrayconsole\bin\Debug\puntenvariabelearrayconsole.exe
+D:\Handelsschool\2016-2017\Programming\puntenvariabelearrayconsole\puntenvariabelearrayconsole\bin\Debug\puntenvariabelearrayconsole.pdb
+D:\Handelsschool\2016-2017\Programming\puntenvariabelearrayconsole\puntenvariabelearrayconsole\obj\Debug\puntenvariabelearrayconsole.csprojResolveAssemblyReference.cache
+D:\Handelsschool\2016-2017\Programming\puntenvariabelearrayconsole\puntenvariabelearrayconsole\obj\Debug\puntenvariabelearrayconsole.exe
+D:\Handelsschool\2016-2017\Programming\puntenvariabelearrayconsole\puntenvariabelearrayconsole\obj\Debug\puntenvariabelearrayconsole.pdb

@@ -1,0 +1,9 @@
+U:\C# _Beau_Roels\p187Oef2\p187Oef2\bin\Debug\p187Oef2.exe.config
+U:\C# _Beau_Roels\p187Oef2\p187Oef2\bin\Debug\p187Oef2.exe
+U:\C# _Beau_Roels\p187Oef2\p187Oef2\bin\Debug\p187Oef2.pdb
+U:\C# _Beau_Roels\p187Oef2\p187Oef2\obj\Debug\p187Oef2.csprojResolveAssemblyReference.cache
+U:\C# _Beau_Roels\p187Oef2\p187Oef2\obj\Debug\p187Oef2.exe
+U:\C# _Beau_Roels\p187Oef2\p187Oef2\obj\Debug\p187Oef2.pdb
+L:\5INFA\broels\C# _Beau_Roels\p187Oef2\p187Oef2\bin\Debug\p187Oef2.exe.config
+L:\5INFA\broels\C# _Beau_Roels\p187Oef2\p187Oef2\obj\Debug\p187Oef2.exe
+L:\5INFA\broels\C# _Beau_Roels\p187Oef2\p187Oef2\obj\Debug\p187Oef2.pdb

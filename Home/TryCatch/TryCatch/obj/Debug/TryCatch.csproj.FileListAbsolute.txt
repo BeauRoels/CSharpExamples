@@ -1,0 +1,6 @@
+D:\Handelsschool\2016-2017\Programming\Home\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+D:\Handelsschool\2016-2017\Programming\Home\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+D:\Handelsschool\2016-2017\Programming\Home\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+D:\Handelsschool\2016-2017\Programming\Home\TryCatch\TryCatch\obj\Debug\TryCatch.csprojResolveAssemblyReference.cache
+D:\Handelsschool\2016-2017\Programming\Home\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+D:\Handelsschool\2016-2017\Programming\Home\TryCatch\TryCatch\obj\Debug\TryCatch.pdb
